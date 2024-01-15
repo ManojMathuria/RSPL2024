@@ -1,0 +1,11 @@
+RSPLILoveMyINDIA
+
+
+<!--<connectionStrings>
+      <add name="SqlConnectionString1" connectionString="Data Source=182.74.46.236;Initial Catalog=RSPLOnesource;uid=SA;password=proc#@#3314"/>
+      <add name="SqlConnectionString2" connectionString="Data Source=182.74.46.236;Initial Catalog=BusyComp0006_db12018;uid=SA;password=proc#@#3314"/>
+      <add name="SqlConnectionString3" connectionString="Data Source=182.74.46.235;Initial Catalog=Specs;uid=SA;password=rsagar@123"/>
+      <add name="SqlConnectionString4" connectionString="Data Source=182.74.46.235;Initial Catalog=Despatch;uid=SA;password=rsagar@123"/>
+      <add name="SqlConnectionString5" connectionString="Data Source=182.74.46.235;Initial Catalog=spcDelhi2010Onwards;uid=SA;password=rsagar@123"/>
+      <add name="SqlConnectionString6" connectionString="Data Source=182.74.46.236;Initial Catalog=ExeVersion;uid=SA;password=proc#@#3314"/>
+  </connectionStrings>-->
